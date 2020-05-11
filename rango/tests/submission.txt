@@ -1,0 +1,4 @@
+1. Link to class with the database functions to be doubled
+2. List the functions that can be double, you don't need to a stub for all
+3. https://github.com/sebbogle/Tango_With_Django_Project/tree/Testing/rango/tests
+4. List names of unit tests methods for stub, mock and fake
